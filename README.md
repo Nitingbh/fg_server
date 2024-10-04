@@ -1,1 +1,1 @@
-# fg_server
+# FreedomGraphics-server
